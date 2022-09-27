@@ -10,7 +10,6 @@ description: >
   <br><br>
   <a href="https://www.linkedin.com/in/bettonyo/" target="_blank">View My LinkedIn Profile</a>
   
-# theme: jekyll-theme-minimal
-theme: jekyll-theme-dark-reader
+theme: jekyll-theme-minimal
 # dark-theme: true
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
