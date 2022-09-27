@@ -1,17 +1,19 @@
-## Yoann Betton's Portfolio
+## Portfolio
 
 ---
 
 ### Projects in progress
 
-[F1 Data Analysis Tool](/f1-data-analysis-tools)
-<img src="output/2022-09-11_Italian_Grand_Prix/drivers_standings_championship.png?raw=true"/>
+[1]: /page/f1-data-analysis-tools
+[F1 Data Analysis Tool][1]
+[<img src="output/2022-09-11_Italian_Grand_Prix/drivers_standings_championship.png?raw=true"/>][1]
 
 ---
 
 ### Other projects
 
-- [Other projects](https://github.com/yoannbtn/)
+[2]: https://github.com/yoannbtn/
+- [Other projects][2]
 
 
 
