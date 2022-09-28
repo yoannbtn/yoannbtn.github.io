@@ -4,6 +4,7 @@
 
 [1]: /page/f1-data-analysis-tools
 [2]: https://github.com/yoannbtn/
+[3]: https://gitlab.utc.fr/bettonyo
 
 ### [F1 Data Analysis Tool][1]
 [<img src="/output/2022-09-11_Italian_Grand_Prix/global_racepace_white.png?raw=true"/>][1]
@@ -22,7 +23,10 @@
 
 ---
 
-### [Other projects][2]
+### Other projects
+
+  - [GitHub][2]
+  - [GitLab][3]
 
 ---
 
