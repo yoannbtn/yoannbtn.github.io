@@ -26,7 +26,7 @@
 ### 15. Belgian Grand Prix - Circuit de Spa-Francorchamps
 
   - [Free Pratice 1]()  
-  - [Free Pratice 2]() 
+  - [Free Pratice 2]()
   - [Free Pratice 3]()
   - [Qualifying]() 
   - [Race]()
