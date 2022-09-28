@@ -4,11 +4,11 @@
 
 ### Session results overview - *horizontal barplot*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/fp3_results_overview.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/fp3_results_overview_white.png?raw=true"/>
 
 ### Session top speed - *barplot*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_fp3.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_fp3_white.png?raw=true"/>
 
 --- 
 

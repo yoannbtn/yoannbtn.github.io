@@ -8,15 +8,15 @@
 
 ### Smoothed race pace - *lineplot*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/smoothed_racepace.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/smoothed_racepace_white.png?raw=true"/>
 
 ### Race stints & compounds strategy - *horizontal barplot*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/race_stints_compounds_stategy.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/race_stints_compounds_stategy_white.png?raw=true"/>
 
 ### Session top speed - *barplot*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_race.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_race_white.png?raw=true"/>
 
 --- 
 

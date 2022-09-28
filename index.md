@@ -6,7 +6,7 @@
 [2]: https://github.com/yoannbtn/
 
 ### [F1 Data Analysis Tool][1]
-[<img src="output/2022-09-11_Italian_Grand_Prix/drivers_standings_championship.png?raw=true"/>][1]
+[<img src="/output/2022-09-11_Italian_Grand_Prix/global_racepace_white.png?raw=true"/>][1]
 
 ---
 

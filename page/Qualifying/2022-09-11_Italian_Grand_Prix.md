@@ -4,15 +4,19 @@
 
 ### Session results overview - *horizontal barplot*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/qualifying_results_overview.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/qualifying_results_overview_white.png?raw=true"/>
 
 ### Telemetry analysis - *lineplots*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/fastest_laps_telemetry_analysis.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/fastest_laps_telemetry_analysis_white.png?raw=true"/>
 
 ### Session top speed - *barplot*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_qualifying.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_qualifying_white.png?raw=true"/>
+
+### Teammate qualifying battle - *barplot*
+
+<img src="/output/2022-09-11_Italian_Grand_Prix/teammates_qualifying_battle_white.png?raw=true"/>
 
 --- 
 
