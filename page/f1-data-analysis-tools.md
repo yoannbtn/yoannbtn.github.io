@@ -1,31 +1,35 @@
 ## F1 Data Analysis Tool project
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Description:** Development of tools for analyzing and visualizing race data from the 2022 Formula One World Championship.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Sources of data:**
+  - [Formula one's live timing service](https://www.formula1.com/)
+  - [Ergast Developer API](https://ergast.com/mrd/)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+**Python packages used**:
+  - [`FastF1`](https://github.com/theOehrly/Fast-F1)
+  - [`NumPy`](https://numpy.org/), [`Pandas`](https://pandas.pydata.org/)
+  - [`Matplotlib`](https://matplotlib.org/), [`Seaborn`](https://seaborn.pydata.org/)
 
-### 2. Assess assumptions on which statistical inference will be based
+---
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 16. Italian Grand Prix - Autodromo Nazionale di Monza
 
-### 3. Support the selection of appropriate statistical tools and techniques
+  - [Free Pratice 1]()
+  - [Free Pratice 2]()
+  - [Free Pratice 3]()
+  - [Qualifying]()
+  - [Race]()
 
-<img src="output/2022-09-11_Italian_Grand_Prix/race_stints_compounds_stategy.png?raw=true"/>
+### 15. Belgian Grand Prix - Circuit de Spa-Francorchamps
 
-### 4. Provide a basis for further data collection through surveys or experiments
+  - [Free Pratice 1]()
+  - [Free Pratice 2]()
+  - [Free Pratice 3]()
+  - [Qualifying]()
+  - [Race]()
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [github.com/yoannbtn](https://github.com/yoannbtn/).
