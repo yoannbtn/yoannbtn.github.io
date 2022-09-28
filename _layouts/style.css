@@ -1,23 +1,23 @@
 .wrapper {
-	width: 1000px;
+	width: 1000px !important;
 	margin: 0 auto
 }
 
 header {
-	width: 300px;
+	width: 300px !important;
 	float: left;
 	position: fixed;
 	-webkit-font-smoothing: subpixel-antialiased
 }
 
 section {
-	width: 600px;
+	width: 600px !important;
 	float: right;
 	padding-bottom: 50px
 }
 
 footer {
-	width: 300px;
+	width: 300px !important;
 	float: left;
 	position: fixed;
 	bottom: 50px;
