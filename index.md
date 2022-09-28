@@ -1,5 +1,7 @@
 ## Portfolio
 
+Click on the [*project name/image*] to display it.
+
 ---
 
 [1]: /page/f1-data-analysis-tools
