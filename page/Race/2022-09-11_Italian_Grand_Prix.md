@@ -4,7 +4,7 @@
 
 ### Global race pace - *boxplot*
 
-<img src="/output/2022-09-11_Italian_Grand_Prix/global_racepace.png?raw=true"/>
+<img src="/output/2022-09-11_Italian_Grand_Prix/global_racepace_white.png?raw=true"/>
 
 ### Smoothed race pace - *lineplot*
 
