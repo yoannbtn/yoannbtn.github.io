@@ -6,6 +6,10 @@
 
 <img src="/output/2022-08-28_Belgian_Grand_Prix/fp1_results_overview_white.png?raw=true"/>
 
+### Session minisectors analysis - *circuit layout*
+
+<img src="/output/2022-08-28_Belgian_Grand_Prix/fp1_minisectors_analysis_white.png?raw=true"/>
+
 ### Session top speed - *barplot*
 
 <img src="/output/2022-08-28_Belgian_Grand_Prix/topspeed_fp1_white.png?raw=true"/>
