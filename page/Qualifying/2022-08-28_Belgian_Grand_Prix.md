@@ -6,6 +6,10 @@
 
 <img src="/output/2022-08-28_Belgian_Grand_Prix/qualifying_results_overview_white.png?raw=true"/>
 
+### Session minisectors analysis - *circuit layout*
+
+<img src="/output/2022-08-28_Belgian_Grand_Prix/qualifying_minisectors_analysis_white.png?raw=true"/>
+
 ### Telemetry analysis - *lineplots*
 
 <img src="/output/2022-08-28_Belgian_Grand_Prix/fastest_laps_telemetry_analysis_white.png?raw=true"/>
