@@ -18,6 +18,12 @@
 
 <img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_qualifying_white.png?raw=true"/>
 
+### Session aerodynamic load level analysis - *barplot*
+
+<img src="/output/2022-09-11_Italian_Grand_Prix/qualifying_maximum_throttle_white.png?raw=true"/>
+
+<img src="/output/2022-09-11_Italian_Grand_Prix/qualifying_speed_ratio_white.png?raw=true"/>
+
 ### Teammate qualifying battle - *barplot*
 
 <img src="/output/2022-09-11_Italian_Grand_Prix/teammates_qualifying_battle_white.png?raw=true"/>

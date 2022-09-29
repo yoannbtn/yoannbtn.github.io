@@ -14,6 +14,12 @@
 
 <img src="/output/2022-08-28_Belgian_Grand_Prix/topspeed_fp3_white.png?raw=true"/>
 
+### Session aerodynamic load level analysis - *barplot*
+
+<img src="/output/2022-08-28_Belgian_Grand_Prix/fp3_maximum_throttle_white.png?raw=true"/>
+
+<img src="/output/2022-08-28_Belgian_Grand_Prix/fp3_speed_ratio_white.png?raw=true"/>
+
 --- 
 
 Find more about the other sessions here :

@@ -14,6 +14,12 @@
 
 <img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_fp1_white.png?raw=true"/>
 
+### Session aerodynamic load level analysis - *barplot*
+
+<img src="/output/2022-09-11_Italian_Grand_Prix/fp1_maximum_throttle_white.png?raw=true"/>
+
+<img src="/output/2022-09-11_Italian_Grand_Prix/fp1_speed_ratio_white.png?raw=true"/>
+
 --- 
 
 Find more about the other sessions here :
