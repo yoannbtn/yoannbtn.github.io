@@ -2,6 +2,11 @@
 
 ---
 
+### 17. Singapore Grand Prix - Marina Bay Street Circuit
+
+  - [Free Pratice 1](/page/FP1/2022-10-02_Singapore_Grand_Prix)
+  - [Free Pratice 2](/page/FP2/2022-10-02_Singapore_Grand_Prix) 
+
 ### 16. Italian Grand Prix - Autodromo Nazionale di Monza
 
   - [Free Pratice 1](/page/FP1/2022-09-11_Italian_Grand_Prix)  
