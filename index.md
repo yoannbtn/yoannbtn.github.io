@@ -30,6 +30,12 @@ Click on the [*project name/image*] to display it.
   - [GitHub][2]
   - [GitLab][3]
 
+---
+
+<div style="text-align: center">
+  <p style="font-size:11px">&copy; 2022 Yoann Betton</p>
+</div>
+
 <!-- ---
 
 <p style="font-size:11px">Page generated from <a href="https://github.com/yoannbtn/yoannbtn.github.io">github.com/yoannbtn</a>.</p> -->

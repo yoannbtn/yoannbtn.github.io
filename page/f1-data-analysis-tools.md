@@ -37,6 +37,12 @@
   - [Race]()
 
 
+---
+
+<div style="text-align: center">
+  <p style="font-size:11px">&copy; 2022 Yoann Betton</p>
+</div>
+
 <!-- ---
 
-For more details see [github.com/yoannbtn](https://github.com/yoannbtn/). -->
+<p style="font-size:11px">Page generated from <a href="https://github.com/yoannbtn/yoannbtn.github.io">github.com/yoannbtn</a>.</p> -->
