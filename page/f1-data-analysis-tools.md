@@ -37,6 +37,6 @@
   - [Race]()
 
 
----
+<!-- ---
 
-For more details see [github.com/yoannbtn](https://github.com/yoannbtn/).
+For more details see [github.com/yoannbtn](https://github.com/yoannbtn/). -->

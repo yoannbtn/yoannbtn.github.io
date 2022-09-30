@@ -17,7 +17,7 @@ Click on the [*project name/image*] to display it.
   - [Formula one's live timing service](https://www.formula1.com/)
   - [Ergast Developer API](https://ergast.com/mrd/)
 
-**Python packages used**:
+**Python packages used:**
   - [`FastF1`](https://github.com/theOehrly/Fast-F1)
   - [`NumPy`](https://numpy.org/), [`Pandas`](https://pandas.pydata.org/)
   - [`Matplotlib`](https://matplotlib.org/), [`Seaborn`](https://seaborn.pydata.org/)
@@ -30,6 +30,6 @@ Click on the [*project name/image*] to display it.
   - [GitHub][2]
   - [GitLab][3]
 
----
+<!-- ---
 
-<p style="font-size:11px">Page generated from <a href="https://github.com/yoannbtn/yoannbtn.github.io">github.com/yoannbtn</a>.</p>
+<p style="font-size:11px">Page generated from <a href="https://github.com/yoannbtn/yoannbtn.github.io">github.com/yoannbtn</a>.</p> -->
