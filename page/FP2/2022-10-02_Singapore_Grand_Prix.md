@@ -1,32 +1,32 @@
-## FP1 Singapore Grand Prix
+## FP2 Singapore Grand Prix
 
 ---
 
 ### Session results overview - *horizontal barplot*
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_results_overview_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/fp2_results_overview_white.png?raw=true"/>
 
 ### Session minisectors analysis - *circuit layout*
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_minisectors_analysis_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/fp2_minisectors_analysis_white.png?raw=true"/>
 
 ### Session telemetry analysis - *lineplots*
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_telemetry_analysis_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/fp2_telemetry_analysis_white.png?raw=true"/>
 
 ### Session average pace - *boxplot*
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_average_pace_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/fp2_average_pace_white.png?raw=true"/>
 
 ### Session top speed - *barplot*
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/topspeed_fp1_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/topspeed_fp2_white.png?raw=true"/>
 
 ### Session aerodynamic load level analysis - *barplot*
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_maximum_throttle_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/fp2_maximum_throttle_white.png?raw=true"/>
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_speed_ratio_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/fp2_speed_ratio_white.png?raw=true"/>
 
 --- 
 
