@@ -14,9 +14,9 @@
 
 <img src="/output/2022-10-02_Singapore_Grand_Prix/qualifying_telemetry_analysis_white.png?raw=true"/>
 
-### Session average pace - *boxplot*
+### Session median pace - *boxplot*
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/qualifying_average_pace_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/qualifying_median_pace_white.png?raw=true"/>
 
 ### Session top speed - *barplot*
 

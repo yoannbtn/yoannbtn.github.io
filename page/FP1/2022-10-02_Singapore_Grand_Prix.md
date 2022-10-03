@@ -14,9 +14,9 @@
 
 <img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_telemetry_analysis_white.png?raw=true"/>
 
-### Session average pace - *boxplot*
+### Session median pace - *boxplot*
 
-<img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_average_pace_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/fp1_median_pace_white.png?raw=true"/>
 
 ### Session top speed - *barplot*
 
