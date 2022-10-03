@@ -28,6 +28,10 @@
 
 <img src="/output/2022-10-02_Singapore_Grand_Prix/qualifying_speed_ratio_white.png?raw=true"/>
 
+### Teammate qualifying battle - *barplot*
+
+<img src="/output/2022-10-02_Singapore_Grand_Prix/teammates_qualifying_battle_white.png?raw=true"/>
+
 --- 
 
 Find more about the other sessions here :
