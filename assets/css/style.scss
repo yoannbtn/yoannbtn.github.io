@@ -4,25 +4,25 @@
 @import '{{ site.theme }}';
 
 .wrapper {
-	width: 1000px;
+	width: 1150px;
 	margin: 0 auto
 }
 
 header {
-	width: 300px;
+	width: 350px;
 	float: left;
 	position: fixed;
 	-webkit-font-smoothing: subpixel-antialiased
 }
 
 section {
-	width: 600px;
+	width: 700px;
 	float: right;
 	padding-bottom: 50px
 }
 
 footer {
-	width: 300px;
+	width: 350px;
 	float: left;
 	position: fixed;
 	bottom: 50px;
@@ -30,7 +30,7 @@ footer {
 }
 
 @media print,
-screen and (max-width: 1100px) {
+screen and (max-width: 1250px) {
 	div.wrapper {
 		width: auto;
 		margin: 0
