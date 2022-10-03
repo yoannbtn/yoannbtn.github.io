@@ -8,7 +8,9 @@
   - [Free Pratice 2](/page/FP2/2022-10-02_Singapore_Grand_Prix)
   - [Free Pratice 3](/page/FP3/2022-10-02_Singapore_Grand_Prix)
   - [Qualifying](/page/Qualifying/2022-10-02_Singapore_Grand_Prix) 
-  - [Race](/page/Race/2022-10-02_Singapore_Grand_Prix) 
+  - [Race](/page/Race/2022-10-02_Singapore_Grand_Prix)
+  - [Drivers Standings after this race](/page/standings/drivers/2022-10-02_Singapore_Grand_Prix)
+  - [Constructors Standings after this race](/page/standings/constructors/2022-10-02_Singapore_Grand_Prix)
 
 ### 16. Italian Grand Prix - Autodromo Nazionale di Monza
 
