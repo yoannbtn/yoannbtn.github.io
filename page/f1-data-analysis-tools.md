@@ -39,6 +39,8 @@
   - [Free Pratice 3](/page/FP3/2022-08-28_Belgian_Grand_Prix)
   - [Qualifying](/page/Qualifying/2022-08-28_Belgian_Grand_Prix) 
   - [Race](/page/Race/2022-08-28_Belgian_Grand_Prix)
+  - [Drivers Standings](/page/standings/drivers/2022-08-28_Belgian_Grand_Prix)
+  - [Constructors Standings](/page/standings/constructors/2022-08-28_Belgian_Grand_Prix)
 
 ### 14. Dutch Grand Prix - Circuit Zandvoort
 
