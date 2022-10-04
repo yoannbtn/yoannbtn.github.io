@@ -10,6 +10,14 @@
 
 <img src="/output/2022-09-11_Italian_Grand_Prix/fp1_minisectors_analysis_white.png?raw=true"/>
 
+### Session telemetry analysis - *lineplots*
+
+<img src="/output/2022-09-11_Italian_Grand_Prix/fp1_telemetry_analysis_white.png?raw=true"/>
+
+### Session median pace - *boxplot*
+
+<img src="/output/2022-09-11_Italian_Grand_Prix/fp1_median_pace_white.png?raw=true"/>
+
 ### Session top speed - *barplot*
 
 <img src="/output/2022-09-11_Italian_Grand_Prix/topspeed_fp1_white.png?raw=true"/>
