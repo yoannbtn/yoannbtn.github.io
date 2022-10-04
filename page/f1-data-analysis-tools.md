@@ -9,8 +9,8 @@
   - [Free Pratice 3](/page/FP3/2022-10-02_Singapore_Grand_Prix)
   - [Qualifying](/page/Qualifying/2022-10-02_Singapore_Grand_Prix) 
   - [Race](/page/Race/2022-10-02_Singapore_Grand_Prix)
-  - [Drivers Standings after this race](/page/standings/drivers/2022-10-02_Singapore_Grand_Prix)
-  - [Constructors Standings after this race](/page/standings/constructors/2022-10-02_Singapore_Grand_Prix)
+  - [Drivers Standings](/page/standings/drivers/2022-10-02_Singapore_Grand_Prix)
+  - [Constructors Standings](/page/standings/constructors/2022-10-02_Singapore_Grand_Prix)
 
 ### 16. Italian Grand Prix - Autodromo Nazionale di Monza
 
@@ -19,8 +19,8 @@
   - [Free Pratice 3](/page/FP3/2022-09-11_Italian_Grand_Prix)
   - [Qualifying](/page/Qualifying/2022-09-11_Italian_Grand_Prix) 
   - [Race](/page/Race/2022-09-11_Italian_Grand_Prix)
-  - [Drivers Standings after this race](/page/standings/drivers/2022-09-11_Italian_Grand_Prix)
-  - [Constructors Standings after this race](/page/standings/constructors/2022-09-11_Italian_Grand_Prix)
+  - [Drivers Standings](/page/standings/drivers/2022-09-11_Italian_Grand_Prix)
+  - [Constructors Standings](/page/standings/constructors/2022-09-11_Italian_Grand_Prix)
 
 ### 15. Belgian Grand Prix - Circuit de Spa-Francorchamps
 
