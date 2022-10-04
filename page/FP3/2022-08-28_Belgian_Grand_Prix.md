@@ -10,6 +10,14 @@
 
 <img src="/output/2022-08-28_Belgian_Grand_Prix/fp3_minisectors_analysis_white.png?raw=true"/>
 
+### Session telemetry analysis - *lineplots*
+
+<img src="/output/2022-08-28_Belgian_Grand_Prix/fp3_telemetry_analysis_white.png?raw=true"/>
+
+### Session median pace - *boxplot*
+
+<img src="/output/2022-08-28_Belgian_Grand_Prix/fp3_median_pace_white.png?raw=true"/>
+
 ### Session top speed - *barplot*
 
 <img src="/output/2022-08-28_Belgian_Grand_Prix/topspeed_fp3_white.png?raw=true"/>
