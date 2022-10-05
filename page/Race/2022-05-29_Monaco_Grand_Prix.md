@@ -18,6 +18,10 @@
 
 <img src="/output/2022-05-29_Monaco_Grand_Prix/topspeed_race_white.png?raw=true"/>
 
+### Teammate race battle - *barplot*
+
+<img src="/output/2022-05-29_Monaco_Grand_Prix/teammates_race_battle_white.png?raw=true"/>
+
 --- 
 
 Find more about the other sessions here :
