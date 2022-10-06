@@ -18,6 +18,10 @@
 
 <img src="/output/2022-06-19_Canadian_Grand_Prix/fp2_median_pace_white.png?raw=true"/>
 
+### Session stints & compounds strategy - *horizontal barplot*
+
+<img src="/output/2022-06-19_Canadian_Grand_Prix/fp2_stints_compounds_stategy_white.png?raw=true"/>
+
 ### Session top speed - *barplot*
 
 <img src="/output/2022-06-19_Canadian_Grand_Prix/topspeed_fp2_white.png?raw=true"/>

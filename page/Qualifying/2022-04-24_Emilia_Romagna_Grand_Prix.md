@@ -14,6 +14,10 @@
 
 <img src="/output/2022-04-24_Emilia_Romagna_Grand_Prix/qualifying_median_pace_white.png?raw=true"/>
 
+### Session stints & compounds strategy - *horizontal barplot*
+
+<img src="/output/2022-04-24_Emilia_Romagna_Grand_Prix/qualifying_stints_compounds_stategy_white.png?raw=true"/>
+
 ### Session top speed - *barplot*
 
 <img src="/output/2022-04-24_Emilia_Romagna_Grand_Prix/topspeed_qualifying_white.png?raw=true"/>

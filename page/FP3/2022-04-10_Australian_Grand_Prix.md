@@ -18,6 +18,10 @@
 
 <img src="/output/2022-04-10_Australian_Grand_Prix/fp3_median_pace_white.png?raw=true"/>
 
+### Session stints & compounds strategy - *horizontal barplot*
+
+<img src="/output/2022-04-10_Australian_Grand_Prix/fp3_stints_compounds_stategy_white.png?raw=true"/>
+
 ### Session top speed - *barplot*
 
 <img src="/output/2022-04-10_Australian_Grand_Prix/topspeed_fp3_white.png?raw=true"/>

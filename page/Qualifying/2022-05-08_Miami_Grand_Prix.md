@@ -18,6 +18,10 @@
 
 <img src="/output/2022-05-08_Miami_Grand_Prix/qualifying_median_pace_white.png?raw=true"/>
 
+### Session stints & compounds strategy - *horizontal barplot*
+
+<img src="/output/2022-05-08_Miami_Grand_Prix/qualifying_stints_compounds_stategy_white.png?raw=true"/>
+
 ### Session top speed - *barplot*
 
 <img src="/output/2022-05-08_Miami_Grand_Prix/topspeed_qualifying_white.png?raw=true"/>
