@@ -14,7 +14,7 @@ Click on the [*project name/image*] to display it.
 **Description:** Development of tools for analyzing and visualizing race data from the 2022 Formula One World Championship.
 
 **Sources of data:**
-  - [Formula one's live timing service](https://www.formula1.com/)
+  - [Formula one's live timing service](https://www.formula1.com/en/f1-live-timing.html)
   - [Ergast Developer API](https://ergast.com/mrd/)
 
 **Python packages used:**
