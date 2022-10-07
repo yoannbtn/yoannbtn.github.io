@@ -5,6 +5,7 @@
 ### 18. Japanese Grand Prix - Suzuka Circuit
 
 - [Free Pratice 1](/page/FP1/2022-10-09_Japanese_Grand_Prix)
+- [Free Pratice 2](/page/FP2/2022-10-09_Japanese_Grand_Prix)
 
 ### 17. Singapore Grand Prix - Marina Bay Street Circuit
 
