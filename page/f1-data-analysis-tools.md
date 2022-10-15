@@ -2,6 +2,10 @@
 
 ---
 
+### 19. United States Grand Prix - Circuit of the Americas (COTA)
+
+*Stay tuned*
+
 ### 18. Japanese Grand Prix - Suzuka Circuit
 
 - [Free Pratice 1](/page/FP1/2022-10-09_Japanese_Grand_Prix)
