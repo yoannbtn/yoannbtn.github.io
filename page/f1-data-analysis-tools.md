@@ -6,6 +6,7 @@
 
 - [Free Pratice 1](/page/FP1/2022-10-23_United_States_Grand_Prix)
 - [Free Pratice 2](/page/FP2/2022-10-23_United_States_Grand_Prix)
+- [Free Pratice 3](/page/FP3/2022-10-23_United_States_Grand_Prix)
 
 ### 18. Japanese Grand Prix - Suzuka Circuit
 
