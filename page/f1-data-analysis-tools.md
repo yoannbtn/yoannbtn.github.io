@@ -14,6 +14,7 @@
 - [Free Pratice 3](/page/FP3/2022-10-09_Japanese_Grand_Prix)
 - [Qualifying](/page/Qualifying/2022-10-09_Japanese_Grand_Prix)
 - [Race](/page/Race/2022-10-09_Japanese_Grand_Prix)
+- [Performance analysis](/page/Performance/2022-10-09_Japanese_Grand_Prix)
 - [Drivers Standings](/page/standings/drivers/2022-10-09_Japanese_Grand_Prix)
 - [Constructors Standings](/page/standings/constructors/2022-10-09_Japanese_Grand_Prix)
 
