@@ -6,7 +6,7 @@
 
 <img src="/output/2022-10-09_Japanese_Grand_Prix/qualifying_performance_white.png?raw=true"/>
 
-### Racepace gap by team - *circuit layout*
+### Racepace gap by team - *horizontal barplot*
 
 <img src="/output/2022-10-09_Japanese_Grand_Prix/race_performance_white.png?raw=true"/>
 
