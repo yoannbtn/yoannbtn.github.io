@@ -53,7 +53,7 @@ Finally, I still have a lot of ideas for new analyzes in mind that I would like 
 
 **How interested people can use it:**
 
-These visualizations are intended for anyone who is fan of Formula 1 looking to learn more about the performance of F1 racing cars and the different technical choices made by the teams (which represents, I am aware, a tiny part of the audience of this sport). They are publicly visible in the section of my portfolio dedicated to this project.
+These visualizations are intended for anyone who is a fan of Formula 1 looking to learn more about the performance of F1 racing cars and the different technical choices made by the teams (which represents, I am aware, a tiny part of the audience of this sport). They are publicly visible in the section of my portfolio dedicated to this project.
 
 I am still in the development phase of this tool and would like to develop it more. In the future, I might consider releasing the scripts to generate these graphs.
 
