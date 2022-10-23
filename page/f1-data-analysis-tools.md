@@ -8,7 +8,10 @@
 - [Free Pratice 2](/page/FP2/2022-10-23_United_States_Grand_Prix)
 - [Free Pratice 3](/page/FP3/2022-10-23_United_States_Grand_Prix)
 - [Qualifying](/page/Qualifying/2022-10-23_United_States_Grand_Prix)
+- [Race](/page/Race/2022-10-23_United_States_Grand_Prix)
 - [Performance analysis](/page/Performance/2022-10-23_United_States_Grand_Prix)
+- [Drivers Standings](/page/standings/drivers/2022-10-23_United_States_Grand_Prix)
+- [Constructors Standings](/page/standings/constructors/2022-10-23_United_States_Grand_Prix)
 
 ### 18. Japanese Grand Prix - Suzuka Circuit
 
@@ -29,6 +32,7 @@
   - [Free Pratice 3](/page/FP3/2022-10-02_Singapore_Grand_Prix)
   - [Qualifying](/page/Qualifying/2022-10-02_Singapore_Grand_Prix) 
   - [Race](/page/Race/2022-10-02_Singapore_Grand_Prix)
+  - [Performance analysis](/page/Performance/2022-10-02_Singapore_Grand_Prix)
   - [Drivers Standings](/page/standings/drivers/2022-10-02_Singapore_Grand_Prix)
   - [Constructors Standings](/page/standings/constructors/2022-10-02_Singapore_Grand_Prix)
 
@@ -39,6 +43,7 @@
   - [Free Pratice 3](/page/FP3/2022-09-11_Italian_Grand_Prix)
   - [Qualifying](/page/Qualifying/2022-09-11_Italian_Grand_Prix) 
   - [Race](/page/Race/2022-09-11_Italian_Grand_Prix)
+  - [Performance analysis](/page/Performance/2022-09-11_Italian_Grand_Prix)
   - [Drivers Standings](/page/standings/drivers/2022-09-11_Italian_Grand_Prix)
   - [Constructors Standings](/page/standings/constructors/2022-09-11_Italian_Grand_Prix)
 
@@ -50,6 +55,7 @@
   - [Free Pratice 3](/page/FP3/2022-09-04_Dutch_Grand_Prix)
   - [Qualifying](/page/Qualifying/2022-09-04_Dutch_Grand_Prix) 
   - [Race](/page/Race/2022-09-04_Dutch_Grand_Prix)
+  - [Performance analysis](/page/Performance/2022-09-04_Dutch_Grand_Prix)
   - [Drivers Standings](/page/standings/drivers/2022-09-04_Dutch_Grand_Prix)
   - [Constructors Standings](/page/standings/constructors/2022-09-04_Dutch_Grand_Prix)
 
