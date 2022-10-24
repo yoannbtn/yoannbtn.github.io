@@ -4,6 +4,8 @@
 
 <img src="/output/2022-10-23_United_States_Grand_Prix/constructors_standings_championship_white.png?raw=true"/>
 
+### Who can still win the Constructor Championship ?
+
 --- 
 
 Find more about the other sessions here :
