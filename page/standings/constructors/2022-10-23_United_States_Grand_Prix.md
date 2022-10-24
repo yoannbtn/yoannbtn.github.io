@@ -6,6 +6,19 @@
 
 ### Who can still win the Constructor Championship ?
 
+| position | team           | current points | theoretical max points | highest possible position | lowest possible position |
+| -------- | -------------- | -------------- | ---------------------- | ------------------------- | ------------------------ |
+| **1**        | **Red Bull**       | **656**            | **803**                    | **1**                         | **1**                        |
+| 2        | Ferrari        | 469            | 616                    | 2                         | 3                        |
+| 3        | Mercedes       | 416            | 563                    | 2                         | 3                        |
+| 4        | Alpine F1 Team | 144            | 291                    | 4                         | 10                       |
+| 5        | McLaren        | 138            | 285                    | 4                         | 10                       |
+| 6        | Alfa Romeo     | 52             | 199                    | 4                         | 10                       |
+| 7        | Aston Martin   | 51             | 198                    | 4                         | 10                       |
+| 8        | Haas F1 Team   | 38             | 185                    | 4                         | 10                       |
+| 9        | AlphaTauri     | 36             | 183                    | 4                         | 10                       |
+| 10       | Williams       | 8              | 155                    | 4                         | 10                       |
+
 --- 
 
 Find more about the other sessions here :
