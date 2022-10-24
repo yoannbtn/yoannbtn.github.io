@@ -4,11 +4,11 @@
 
 ### Qualifying laptime gap by team - *horizontal barplot*
 
-<img src="/output2022-10-02_Singapore_Grand_Prix/qualifying_performance_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/qualifying_performance_white.png?raw=true"/>
 
 ### Racepace gap by team - *horizontal barplot*
 
-<img src="/output2022-10-02_Singapore_Grand_Prix/race_performance_white.png?raw=true"/>
+<img src="/output/2022-10-02_Singapore_Grand_Prix/race_performance_white.png?raw=true"/>
 
 
 --- 
