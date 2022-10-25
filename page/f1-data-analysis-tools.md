@@ -2,6 +2,10 @@
 
 ---
 
+### 20. Mexico City Grand Prix - Autódromo Hermanos Rodríguez
+
+*Stay tuned*
+
 ### 19. United States Grand Prix - Circuit of the Americas (COTA)
 
 - [Free Pratice 1](/page/FP1/2022-10-23_United_States_Grand_Prix)
