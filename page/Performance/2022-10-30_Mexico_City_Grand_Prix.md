@@ -10,6 +10,10 @@
 
 <img src="/output/2022-10-30_Mexico_City_Grand_Prix/race_performance_white.png?raw=true"/>
 
+### Test svg graph :
+
+<img src="/output/2022-10-30_Mexico_City_Grand_Prix/svg_test.svg?raw=true"/>
+
 
 --- 
 
