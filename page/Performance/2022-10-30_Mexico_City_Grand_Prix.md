@@ -12,7 +12,7 @@
 
 ### Test svg graph :
 
-<img src="/output/2022-10-30_Mexico_City_Grand_Prix/svg_test.svg?raw=true"/>
+<img src="/output/2022-10-30_Mexico_City_Grand_Prix/svg_tele.svg?raw=true"/>
 
 
 --- 
