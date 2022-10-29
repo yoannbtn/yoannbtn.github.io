@@ -6,6 +6,7 @@
 
 - [Free Pratice 1](/page/FP1/2022-10-30_Mexico_City_Grand_Prix)
 - [Free Pratice 2](/page/FP2/2022-10-30_Mexico_City_Grand_Prix)
+- [Free Pratice 3](/page/FP3/2022-10-30_Mexico_City_Grand_Prix)
 
 ### 19. United States Grand Prix - Circuit of the Americas (COTA)
 
