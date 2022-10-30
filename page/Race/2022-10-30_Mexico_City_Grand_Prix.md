@@ -4,23 +4,23 @@
 
 ### Global race pace - *boxplot*
 
-<img src="/output/2022-10-30_Mexico_City_Grand_Prix/global_racepace_white.png?raw=true"/>
+<img src="/output/2022-10-30_Mexico_City_Grand_Prix/global_racepace_white.svg?raw=true"/>
 
 ### Smoothed race pace - *lineplot*
 
-<img src="/output/2022-10-30_Mexico_City_Grand_Prix/smoothed_racepace_white.png?raw=true"/>
+<img src="/output/2022-10-30_Mexico_City_Grand_Prix/smoothed_racepace_white.svg?raw=true"/>
 
 ### Race stints & compounds strategy - *horizontal barplot*
 
-<img src="/output/2022-10-30_Mexico_City_Grand_Prix/race_stints_compounds_stategy_white.png?raw=true"/>
+<img src="/output/2022-10-30_Mexico_City_Grand_Prix/race_stints_compounds_stategy_white.svg?raw=true"/>
 
 ### Session top speed - *barplot*
 
-<img src="/output/2022-10-30_Mexico_City_Grand_Prix/topspeed_race_white.png?raw=true"/>
+<img src="/output/2022-10-30_Mexico_City_Grand_Prix/topspeed_race_white.svg?raw=true"/>
 
 ### Teammate race battle - *barplot*
 
-<img src="/output/2022-10-30_Mexico_City_Grand_Prix/teammates_race_battle_white.png?raw=true"/>
+<img src="/output/2022-10-30_Mexico_City_Grand_Prix/teammates_race_battle_white.svg?raw=true"/>
 
 --- 
 

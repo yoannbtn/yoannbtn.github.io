@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/output/2022-10-30_Mexico_City_Grand_Prix/constructors_standings_championship_white.png?raw=true"/>
+<img src="/output/2022-10-30_Mexico_City_Grand_Prix/constructors_standings_championship_white.svg?raw=true"/>
 
 ### Who can still win the Constructor Championship ?
 
