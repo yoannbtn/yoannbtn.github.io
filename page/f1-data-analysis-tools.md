@@ -10,6 +10,8 @@
 - [Qualifying](/page/Qualifying/2022-10-30_Mexico_City_Grand_Prix)
 - [Race](/page/Race/2022-10-30_Mexico_City_Grand_Prix)
 - [Performance analysis](/page/Performance/2022-10-30_Mexico_City_Grand_Prix)
+- [Drivers Standings](/page/standings/drivers/2022-10-30_Mexico_City_Grand_Prix)
+- [Constructors Standings](/page/standings/constructors/2022-10-30_Mexico_City_Grand_Prix)
 
 ### 19. United States Grand Prix - Circuit of the Americas (COTA)
 
