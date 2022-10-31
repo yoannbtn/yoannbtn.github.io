@@ -9,7 +9,7 @@ Click on the [*project name/image*] to display it.
 [3]: https://gitlab.utc.fr/bettonyo
 
 ### [F1 Data Analysis Tool][1]
-[<img src="output/2022-10-23_United_States_Grand_Prix/global_racepace_white.png?raw=true"/>][1]
+[<img src="output/2022-10-30_Mexico_City_Grand_Prix/global_racepace_white.svg?raw=true"/>][1]
 
 **Description:** Development of tools for analyzing and visualizing race data from the 2022 Formula One World Championship.
 
