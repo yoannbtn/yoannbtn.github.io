@@ -11,12 +11,12 @@
 | **1**        | **Red Bull**       | **696**            | **799**                    | **1**                         | **1**                        |
 | 2        | Ferrari        | 487            | 590                    | 2                         | 3                        |
 | 3        | Mercedes       | 447            | 550                    | 2                         | 3                        |
-| 4        | Alpine F1 Team | 148            | 251                    | 4                         | 7                        |
+| 4        | Alpine F1 Team | 153            | 256                    | 4                         | 6                        |
 | 5        | McLaren        | 146            | 249                    | 4                         | 7                        |
 | 6        | Alfa Romeo     | 53             | 156                    | 4                         | 10                       |
-| 7        | Aston Martin   | 51             | 154                    | 4                         | 10                       |
-| 8        | Haas F1 Team   | 38             | 141                    | 6                         | 10                       |
-| 9        | AlphaTauri     | 36             | 139                    | 6                         | 10                       |
+| 7        | Aston Martin   | 49             | 152                    | 5                         | 10                       |
+| 8        | Haas F1 Team   | 36             | 139                    | 6                         | 10                       |
+| 9        | AlphaTauri     | 35             | 138                    | 6                         | 10                       |
 | 10       | Williams       | 8              | 111                    | 6                         | 10                       |
 
 ---
