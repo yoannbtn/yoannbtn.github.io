@@ -4,7 +4,7 @@
 
 ### 21. São Paulo Grand Prix - Autódromo José Carlos Pace (Interlagos)
 
-- [Free Pratice 1](/page/FP1/2022-11-13_São_Paulo_Grand_Prix)
+*Stay tuned*
 
 
 ### 20. Mexico City Grand Prix - Autódromo Hermanos Rodríguez
