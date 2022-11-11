@@ -2,10 +2,6 @@
 
 ---
 
-### Session results overview - *horizontal barplot*
-
-<img src="/output/2022-11-13_São_Paulo_Grand_Prix/qualifying_results_overview_white.svg?raw=true"/>
-
 ### Session minisectors analysis - *circuit layout*
 
 <img src="/output/2022-11-13_São_Paulo_Grand_Prix/qualifying_minisectors_analysis_white.svg?raw=true"/>
