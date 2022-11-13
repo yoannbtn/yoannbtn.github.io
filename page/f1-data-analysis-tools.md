@@ -6,6 +6,9 @@
 
 - [Free Pratice 1](/page/FP1/2022-11-13_São_Paulo_Grand_Prix)
 - [Qualifying](/page/Qualifying/2022-11-13_São_Paulo_Grand_Prix)
+- [Free Pratice 2](/page/FP2/2022-11-13_São_Paulo_Grand_Prix)
+- [Sprint](/page/Sprint/2022-11-13_São_Paulo_Grand_Prix)
+- [Performance analysis](/page/Performance/2022-11-13_São_Paulo_Grand_Prix)
 
 
 ### 20. Mexico City Grand Prix - Autódromo Hermanos Rodríguez
