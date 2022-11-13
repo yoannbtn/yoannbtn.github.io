@@ -2,10 +2,6 @@
 
 ---
 
-### Qualifying laptime gap by team - *horizontal barplot*
-
-<img src="/output/2022-11-13_São_Paulo_Grand_Prix/qualifying_performance_white.svg?raw=true"/>
-
 ### Sprintpace gap by team - *horizontal barplot*
 
 <img src="/output/2022-11-13_São_Paulo_Grand_Prix/sprint_performance_white.svg?raw=true"/>
