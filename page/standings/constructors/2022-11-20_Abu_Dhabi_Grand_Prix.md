@@ -8,16 +8,16 @@
 
 | position | team           | current points | theoretical max points | highest possible position | lowest possible position |
 | -------- | -------------- | -------------- | ---------------------- | ------------------------- | ------------------------ |
-| **1**        | **Red Bull**       | **696**            | **799**                    | **1**                         | **1**                        |
-| 2        | Ferrari        | 487            | 590                    | 2                         | 3                        |
-| 3        | Mercedes       | 447            | 550                    | 2                         | 3                        |
-| 4        | Alpine F1 Team | 153            | 256                    | 4                         | 6                        |
-| 5        | McLaren        | 146            | 249                    | 4                         | 7                        |
-| 6        | Alfa Romeo     | 53             | 156                    | 4                         | 10                       |
-| 7        | Aston Martin   | 49             | 152                    | 5                         | 10                       |
-| 8        | Haas F1 Team   | 36             | 139                    | 6                         | 10                       |
-| 9        | AlphaTauri     | 35             | 138                    | 6                         | 10                       |
-| 10       | Williams       | 8              | 111                    | 6                         | 10                       |
+| **1**        | **Red Bull**       | **759**            | **759**                    | **1**                         | **1**                        |
+| 2        | Ferrari        | 554            | 554                    | 2                         | 2                        |
+| 3        | Mercedes       | 515            | 515                    | 3                         | 3                        |
+| 4        | Alpine F1 Team | 173            | 173                    | 4                         | 4                        |
+| 5        | McLaren        | 159            | 159                    | 5                         | 5                        |
+| 6        | Alfa Romeo     | 55             | 55                     | 6                         | 6                        |
+| 7        | Aston Martin   | 55             | 55                     | 6                         | 6                        |
+| 8        | Haas F1 Team   | 37             | 37                     | 8                         | 8                        |
+| 9        | AlphaTauri     | 35             | 35                     | 9                         | 9                        |
+| 10       | Williams       | 8              | 8                      | 10                        | 10                       |
 
 ---
 

@@ -1,0 +1,11 @@
+position,team,current points,theoretical max points,highest possible position,lowest possible position
+1,Red Bull,759,759,1,0
+2,Ferrari,554,554,2,1
+3,Mercedes,515,515,3,2
+4,Alpine F1 Team,173,173,4,3
+5,McLaren,159,159,5,4
+6,Alfa Romeo,55,55,6,5
+7,Aston Martin,55,55,6,5
+8,Haas F1 Team,37,37,8,7
+9,AlphaTauri,35,35,9,8
+10,Williams,8,8,10,10
