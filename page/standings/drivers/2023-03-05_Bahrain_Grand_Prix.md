@@ -6,6 +6,29 @@
 
 ### Who can still win the Driver Championship ?
 
+| position | driver | current points | theoretical max points | can't be higher than | can't be lower than |
+| -------- | ------ | -------------- | ---------------------- | -------------------- | ------------------- |
+| 1        | VER    | 25             | 595                    | 1                    | 20                  |
+| 2        | PER    | 18             | 588                    | 1                    | 20                  |
+| 3        | ALO    | 15             | 585                    | 1                    | 20                  |
+| 4        | SAI    | 12             | 582                    | 1                    | 20                  |
+| 5        | HAM    | 10             | 580                    | 1                    | 20                  |
+| 6        | STR    | 8              | 578                    | 1                    | 20                  |
+| 7        | RUS    | 6              | 576                    | 1                    | 20                  |
+| 8        | BOT    | 4              | 574                    | 1                    | 20                  |
+| 9        | GAS    | 2              | 572                    | 1                    | 20                  |
+| 10       | ALB    | 1              | 571                    | 1                    | 20                  |
+| 11       | TSU    | 0              | 570                    | 1                    | 20                  |
+| 12       | SAR    | 0              | 570                    | 1                    | 20                  |
+| 13       | MAG    | 0              | 570                    | 1                    | 20                  |
+| 14       | DEV    | 0              | 570                    | 1                    | 20                  |
+| 15       | HUL    | 0              | 570                    | 1                    | 20                  |
+| 16       | ZHO    | 0              | 570                    | 1                    | 20                  |
+| 17       | NOR    | 0              | 570                    | 1                    | 20                  |
+| 18       | OCO    | 0              | 570                    | 1                    | 20                  |
+| 19       | LEC    | 0              | 570                    | 1                    | 20                  |
+| 20       | PIA    | 0              | 570                    | 1                    | 20                  |
+
 --- 
 
 Find more about the other sessions here :
