@@ -42,7 +42,7 @@ In addition, this project allows me to directly apply the knowledge that I have 
 
 The idea for this project came to me at the end of August 2022 when I started my exchange at Polytechnique Montréal. Students are especially encouraged to apply what they are studying there in any way.
 
-I therefore went into this project by investing myself very strongly in it at the beginning: during the month of September, I consider that I spent about 2 hours to it per day, or 10 hours per week. Phases of reflection, design and development of scripts followed before reaching the first graphics.
+I therefore went into this project by investing myself very strongly in it at the beginning: during the month of September, I consider that I spent about 2 hours to it per day, or 10 hours per week. Phases of reflection, design and development of scripts followed before getting the first graphics.
 
 At the same time, I had to think about how I was going to show my results. I decided to create a section on my GitHub portfolio where I summarize all the analyzes I do. To make the site operational and to implement the automatic analysis generation procedure, it took me about twenty hours of work.
 The small site is now operational and I ran the scripts on the first Grand Prix of this 2022 F1 season, the results are visible there.
