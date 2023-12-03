@@ -24,6 +24,13 @@ Dans cet article, nous allons plonger dans l'univers des choix des voiles sur ce
 ### La Grand Voile, ou GV (voile obligatoire)
 La Grand Voile est la principale force motrice du bateau. Son angle peut être ajusté en fonction de l'angle apparent du vent (*AWA*) : au près, la bôme sera serrée, tandis qu'au portant, elle sera plus ouverte. De plus, les skippers peuvent choisir de prendre un ou plusieurs ris, réduisant la surface de la voile pour s'adapter à la force croissante du vent. Ces ajustements permettent d'optimiser la performance et la sécurité du bateau dans des conditions météo changeantes.
 
+<!-- <div class="image-container">
+  <img src="../images/imoca_wallpaper.jpg" alt="IMoca Wallpaper 1" class="responsive-image">
+  <img src="../images/imoca_wallpaper.jpg" alt="IMoca Wallpaper 2" class="responsive-image">
+  <img src="../images/imoca_wallpaper.jpg" alt="IMoca Wallpaper 3" class="responsive-image">
+</div> -->
+
+
 ### Le Tourmentin (voile obligatoire)
 Le Tourmentin, voile de secours cruciale en conditions extrêmes, est rapidement accessible en étant rangé dans une poche spéciale à l'avant du mât. En réduisant la voilure lors de tempêtes, cette voile triangulaire attachée au bas du mât assure la stabilité et la sécurité du bateau.
 
@@ -101,3 +108,25 @@ En somme, les choix tactiques opérés par les skippers sur les IMOCA à foils r
 <!-- ---
 
 <p style="font-size:11px">Page generated from <a href="https://github.com/yoannbtn/yoannbtn.github.io">github.com/yoannbtn</a>.</p> -->
+
+
+<style>
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .responsive-image {
+    height: 200px;
+    flex: 1;
+    max-width: 300px;
+    margin: 8px;
+  }
+
+  @media (max-width: 600px) {
+    .responsive-image {
+      max-width: 100%;
+    }
+  }
+</style>
