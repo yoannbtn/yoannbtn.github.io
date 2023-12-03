@@ -4,6 +4,17 @@ Click on the [*project name/image*] to display it.
 
 ---
 
+[4]: /page/imoca-sails
+
+
+### [Comprendre les choix de voiles des IMOCA][4]
+[<img src="images/imoca_wallpaper.jpg?raw=true"/>][4]
+<div style="text-align:center; font-size:11px;"> &copy; Sailing Energy / The Ocean Race </div>
+
+
+---
+
+
 [1]: /page/f1-2023
 [2]: https://github.com/yoannbtn/
 [3]: https://gitlab.utc.fr/bettonyo
@@ -73,7 +84,7 @@ It may be that, in the future, I will collaborate with a sports journalist frien
 ---
 
 <div style="text-align: center">
-  <p style="font-size:11px">&copy; 2022 Yoann Betton</p>
+  <p style="font-size:11px">&copy; 2023 Yoann Betton</p>
 </div>
 
 <!-- ---
