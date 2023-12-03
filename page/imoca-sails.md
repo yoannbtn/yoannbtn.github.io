@@ -63,16 +63,17 @@ Le Spi a longtemps été la voile de portant privilégiée sur les IMOCA d'ancie
 ### Récapitulatif 
 
 | Voile               | Forme                   | Point de Fixation au Mat   | Point de Fixation sur le Pont    | Utilisation                                  |
-|---------------------|-------------------------|-----------------------------|-----------------------------------|---------------------------------------------------------------------|
+|---------------------|-------------------------|-----------------------------|-----------------------------------|----------------------------------------------|
 | Grand Voile (GV)    | Rectangulaire           | En haut du mât (ajustable, prise de ris)              | Attachée à la bôme à l'arrière    | Principale voile propulsive, ajustable selon l'angle apparent du vent et avec la possibilité de prendre des ris en cas de vent fort. |
 | Tourmentin          | Triangulaire            | Bas du mât                  | Près du mat | Voile de secours cruciale en conditions extrêmes pour assurer la sécurité du bateau. |
-| J3 (Génois de tempête) | Triangulaire plus petite | Mi-hauteur du mat       | Point d'attache intermédiaire situé environ 4m avant la proue du navire                  | Utilisée par vent sounteu à très fort, peut être combinée avec des voiles attachées au boute-dehors. |
+| J3 (Génois de tempête) | Triangulaire plus petite | Mi-hauteur du mat       | Point d'attache intermédiaire situé environ 4m avant la proue du navire                  | Utilisée par vent soutenu à très fort, peut être combinée avec des voiles attachées au boute-dehors. |
 | J2 (Génois intermédiaire) | Plus grande que le J3 | 5 mètres en dessous de la tête de mat        | Point d'attache intermédiaire situé environ 2m avant la proue du navire | Polyvalente pour le près/reaching par vent modéré/fort, peut être combinée avec des voiles attachées au boute-dehors. |
 | J0                  | Génois puissant         | En tête de mat | Boute-dehors                   | Pour le près/reaching par vent faible, maximisant la propulsion.   |
 | Grand Gennaker (A3) | Asymétrique, plus grande voile de portant | En tête de mat  | Boute-dehors                      | Utilisée en conjonction avec J2 et J3 par vent faible, idéale pour le portant. |
 | Petit Gennaker      | Asymétrique, plus petite | Mi-hauteur du mat             | Boute-dehors                      | Portant dans des conditions de vent et de mer forts, permet le passage de l'eau quand le bateau plante dans la mer formée. |
 | Fractional Code 0   | Asymétrique, très polyvalente | Mi-hauteur du mat | Boute-dehors                | Polyvalente, utilisée au portant, reaching et près par vent soutenu. |
 | Spi (Spinnaker)     | Symétrique, en triangle | En tête de mat             | Boute-dehors                      | Voile de portant vent arrière, moins utilisée au profit des gennakers et du Fractional Code 0. |
+
 
 ### Conclusion
 
