@@ -6,6 +6,19 @@ Les IMOCA sont des voiliers de course de 60 pieds de haute technologie. Ces mono
 
 La nouvelle génération d'IMOCA a marqué une évolution majeure avec l'introduction d'appendices ou de surfaces portantes immergées qui permettent de soulever partiellement ou totalement la coque du navire, réduisant ainsi la traînée hydrodynamique et augmentant la vitesse du bateau. Cette avancée technologique a considérablement influencé le développement et les choix de conception au sein de la classe IMOCA. Dans ce contexte, les voiles jouent un rôle crucial dans la performance et la compétitivité de ces voiliers de course.
 
+1. [La Grand Voile](#la-grand-voile-ou-gv-voile-obligatoire)
+2. [Le Tourmentin](#le-tourmentin-voile-obligatoire)
+3. [Le J3](#le-j3-ou-génois-de-tempête)
+4. [Le J2](#le-j2-ou-génois-intermédiaire)
+5. [Le J1](#le-j1-ou-génois-classique)
+6. [Le J0](#le-j0-ou-génois-puissant)
+7. [Le Grand *Gennaker*](#la3-ou-grand-gennaker)
+8. [Le Petit *Gennaker*](#le-petit-gennaker)
+9. [Le *Fractional* Code 0](#le-fractional-code-0)
+10. [Le Spi](#le-spinnaker-ou-spi)
+11. [Tableau récapitulatif](#récapitulatif)
+12. [Conclusion](#conclusion)
+
 Dans cet article, nous allons plonger dans l'univers des choix des voiles sur ces bateaux de course exceptionnels. Pour des compétitions exigeantes comme le Vendée Globe, où les IMOCA sont limités à seulement 8 voiles, la sélection judicieuse de ces voiles devient une pièce maîtresse de la stratégie d'avant-course. Explorez avec nous les différentes voiles des IMOCA et découvrez comment les skippers choisissent leur jeu de voiles pour optimiser leur performance dans des conditions très variées.
 
 ### La Grand Voile, ou GV (voile obligatoire)
