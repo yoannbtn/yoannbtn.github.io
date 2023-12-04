@@ -24,41 +24,104 @@ Dans cet article, nous allons plonger dans l'univers des choix des voiles sur ce
 ### La Grand Voile, ou GV (voile obligatoire)
 La Grand Voile est la principale force motrice du bateau. Son angle peut être ajusté en fonction de l'angle apparent du vent (*AWA*) : au près, la bôme sera serrée, tandis qu'au portant, elle sera plus ouverte. De plus, les skippers peuvent choisir de prendre un ou plusieurs ris, réduisant la surface de la voile pour s'adapter à la force croissante du vent. Ces ajustements permettent d'optimiser la performance et la sécurité du bateau dans des conditions météo changeantes.
 
-<!-- <div class="image-container">
-  <img src="../images/imoca_wallpaper.jpg" alt="IMoca Wallpaper 1" class="responsive-image">
-  <img src="../images/imoca_wallpaper.jpg" alt="IMoca Wallpaper 2" class="responsive-image">
-  <img src="../images/imoca_wallpaper.jpg" alt="IMoca Wallpaper 3" class="responsive-image">
-</div> -->
-
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/main-sail.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Charal Sailing Team 
+</div>
 
 ### Le Tourmentin (voile obligatoire)
 Le Tourmentin, voile de secours cruciale en conditions extrêmes, est rapidement accessible en étant rangé dans une poche spéciale à l'avant du mât. En réduisant la voilure lors de tempêtes, cette voile triangulaire attachée au bas du mât assure la stabilité et la sécurité du bateau.
 
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/tourmentin.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Georgia Schofield / polaRYSE
+</div>
+
 ### Le J3, ou Génois de tempête
 Le J3 est spécialement conçu pour les vents très forts. Attaché sur un point d'attache intermédiaire situé environ 4 mètres avant la proue du navire et à mi-hauteur sur le mat, cette voile triangulaire plus petite maintient la stabilité du bateau lors du près ou du portant dans des conditions météo sounteus.
+
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/J3.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Marin Le Roux / polaRYSE
+</div>
 
 ### Le J2, ou Génois intermédiaire
 Le J2, voile polyvalente pour le près et le reaching par vent modéré à fort, est attaché à un point d'attache intermédiaire situé environ 2 mètres avant la proue du navire et à environ 5 mètres de la tête de mat. Tout comme le J3, il peut être combiné avec des voiles attachées au boute-dehors pour augmenter la surface de toile.
 
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/J2.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Sailing Energy / The Ocean Race
+</div>
+
 ### Le J1, ou Génois classique
 Le J1, voile accrochée en tête de mât et à la proue du navire, est adaptée pour le près et le reaching. Elle est de moins en moins utilisée sur les IMOCA à foils de nouvelle génération au profit d'autres voiles telles que le *Fractional* Code 0, le J0 et les *gennakers* pour le portant.
+
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/J1.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Damin Meyer
+</div>
 
 ### Le J0, ou Génois puissant
 Le J0 est privilégié par vent faible. Attaché au boute-dehors qui prolonge la proue du navire, cette voile puissante maximise la propulsion dans des conditions de vent plus légères, offrant une performance optimale pour le près et le reaching.
 
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/imoca_wallpaper.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Sailing Energy / The Ocean Race
+</div>
+
 ### L'A3, ou Grand *Gennaker*
 Le Grand *Gennaker* est la voile qui offre la plus grande surface de toile. Cette voile asymétrique est attachée en tête de mât et sur le boute-dehors. Idéal pour le portant, il peut être combiné avec le J2 et le J3 par vent faible, offrant une propulsion efficace dans des conditions variées.
+
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/a3.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Jean-Marie Liot / Alea
+</div>
 
 
 ### Le Petit *Gennaker*
 Le Petit *Gennaker*, une voile asymétrique plus compacte, se distingue par son design spécialement adapté aux conditions maritimes les plus exigeantes. Attachée au boute-dehors du navire et au même niveau que le J2 au mat, cette voile excelle dans des situations de vent et de mer particulièrement soutenues. 
 Sa caractéristique distinctive réside dans sa capacité à laisser passer l'eau au-dessus du pont lorsqu'il enfourche ou plante dans de grosses vagues, assurant ainsi une manœuvrabilité et une sécurité exceptionnelles dans les conditions les plus extrêmes, du grand sud notamment. Une voile taillée pour affronter les éléments avec agilité et détermination.
 
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/petit-gennak.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Julien Champolion / The Ocean Race
+</div>
+
 ### Le *Fractional* Code 0
 Le Fractional Code 0, voile asymétrique polyvalente, est au mat au même niveau que le J2 et le petit *gennaker*. Fixé au boute-dehors, cette voile est remarquablement adaptable, offrant des performances exceptionnelles au portant, au reaching et même au près par vent soutenu.
 
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/fr0.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Gauthier LEBEC / Charal Sailing Team
+</div>
+
 ### Le *Spinnaker*, ou Spi
 Le Spi a longtemps été la voile de portant privilégiée sur les IMOCA d'ancienne génération. Symétrique et en triangle, il permet de propulser le bateau dans des conditions de vent arrière. Cependant, le Spi voit aujourd'hui sa position de voile de portant prédominante remise en question : les IMOCA à foils de nouvelle génération, optent de plus en plus pour des voiles asymétriques comme les gennakers.
+
+<div style="text-align:center; font-size:11px;"> 
+  <img src="../images/spi.jpg?raw=true" style="max-height: 400px;"/>
+</div>
+<div style="text-align:center; font-size:11px;"> 
+  &copy; Amory Ross / 11th Hour Racing Team
+</div>
 
 ### Récapitulatif 
 
@@ -110,24 +173,3 @@ En somme, les choix tactiques opérés par les skippers sur les IMOCA à foils r
 
 <p style="font-size:11px">Page generated from <a href="https://github.com/yoannbtn/yoannbtn.github.io">github.com/yoannbtn</a>.</p> -->
 
-
-<style>
-  .image-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
-
-  .responsive-image {
-    height: 200px;
-    flex: 1;
-    max-width: 300px;
-    margin: 8px;
-  }
-
-  @media (max-width: 600px) {
-    .responsive-image {
-      max-width: 100%;
-    }
-  }
-</style>
