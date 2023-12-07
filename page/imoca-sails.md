@@ -85,7 +85,7 @@ Le J0 est privilégié par vent faible. Attaché au boute-dehors qui prolonge la
 Le Grand *Gennaker* est la voile qui offre la plus grande surface de toile. Cette voile asymétrique est attachée en tête de mât et sur le boute-dehors. Idéal pour le portant, il peut être combiné avec le J2 et le J3 par vent faible, offrant une propulsion efficace dans des conditions variées.
 
 <div style="text-align:center; font-size:11px;"> 
-  <img src="../images/a3.jpg?raw=true" style="max-height: 400px;"/>
+  <img src="../images/A3.jpg?raw=true" style="max-height: 400px;"/>
 </div>
 <div style="text-align:center; font-size:11px;"> 
   &copy; Sailing Energy / The Ocean Race
