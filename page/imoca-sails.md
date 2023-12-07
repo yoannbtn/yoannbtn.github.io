@@ -114,7 +114,8 @@ Le Fractional Code 0, voile asymétrique polyvalente, est au mat au même niveau
 </div>
 
 ### Le *Spinnaker*, ou Spi
-Le Spi a longtemps été la voile de portant privilégiée sur les IMOCA d'ancienne génération. Symétrique et en triangle, il permet de propulser le bateau dans des conditions de vent arrière. Cependant, le Spi voit aujourd'hui sa position de voile de portant prédominante remise en question : les IMOCA à foils de nouvelle génération, optent de plus en plus pour des voiles asymétriques comme les gennakers.
+Le Spi a longtemps été la voile de portant privilégiée sur les IMOCA d’ancienne génération. Il permet de propulser le bateau dans des conditions de vent arrière et offre la plus grande surface de toile parmi toutes les voiles. Cette caractéristique permet une navigation efficace au portant *VMG* (*Velocity Made Good*), optimisant la vitesse du bateau dans la direction souhaitée. Cependant, le Spi voit aujourd’hui sa position de voile de portant prédominante remise en question : les IMOCA à foils de nouvelle génération optent de plus en plus pour des voiles plus plâtes,comme les gennakers, qui permettent aux bateaux de décoler.
+
 
 <div style="text-align:center; font-size:11px;"> 
   <img src="../images/spi.jpg?raw=true" style="max-height: 400px;"/>
