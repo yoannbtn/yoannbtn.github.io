@@ -4,10 +4,10 @@
 
 ### 2024 - Arkéa Ultim Challenge Brest
 
-  - [J35 - Week 5 - 2024-02-04 to 2024-01-12](/page/)
-  - [J28 - Week 4 - 2024-01-28 to 2024-01-03](/page/)
-  - [J21 - Week 3 - 2024-01-21 to 2024-01-27](/page/)
-  - [J14 - Week 2 - 2024-01-14 to 2024-01-20](/page/)
+  - [J35 - Week 5 - 2024-02-04 to 2024-01-12](/page/sailing-races-analysis)
+  - [J28 - Week 4 - 2024-01-28 to 2024-01-03](/page/sailing-races-analysis)
+  - [J21 - Week 3 - 2024-01-21 to 2024-01-27](/page/sailing-races-analysis)
+  - [J14 - Week 2 - 2024-01-14 to 2024-01-20](/page/sailing-races-analysis)
   - [J07 - Week 1 - 2024-01-07 to 2024-01-13](/page/ArkeaUltimChallenge2024/J07-Week1)
 
 

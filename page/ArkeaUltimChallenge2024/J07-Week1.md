@@ -6,11 +6,11 @@
 
 ---
 
-#### Polar diagram
+#### Polar Diagrams
 
 <img src="/output/2024-ArkeaUltimChallenge/J07-Week1/polar_diagram.png?raw=true"/>
 
-#### Heatmaps
+#### Polar Heatmaps
 
 <img src="/output/2024-ArkeaUltimChallenge/J07-Week1/EDMOND DE ROTHSCHILD_polar_heatmap.png?raw=true"/>
 

@@ -8,8 +8,9 @@ Click on the [*project name/image*] to display it.
 [5]: /page/sailing-races-analysis
 
 ### [Sailing Races Analysis][5]
-[<img src="images/ultim_wallpaper.jpg?raw=true"/>][5]
-<div style="text-align:center; font-size:11px;"> &copy; Alexis Courcoux / Route du Rhum 2022 </div>
+[<img src="images/ultim_wallpaper.JPG?raw=true"/>][5]
+<div style="text-align:center; font-size:11px; margin-bottom: 2em;"> &copy; Alexis Courcoux / Route du Rhum 2022 </div>
+
 
 **Description:** Project dedicated to the analysis of sailing races, focusing on prominent events such as La Transat Jacques Vabres, Route du Rhum, Arkéa Ultim Challenge, Trophée Jules Vernes, etc. 
 
