@@ -161,6 +161,7 @@ En somme, les choix tactiques opérés par les skippers sur les IMOCA à foils r
 
 ---
 
+### [Sailing Races Analysis](/page/sailing-races-analysis)
 ### [2023 - F1 Data Analysis Tool project](/page/f1-2023)
 ### [2022 - F1 Data Analysis Tool project](/page/f1-2022)
 
@@ -170,7 +171,4 @@ En somme, les choix tactiques opérés par les skippers sur les IMOCA à foils r
   <p style="font-size:11px">&copy; 2023 Yoann Betton</p>
 </div>
 
-<!-- ---
-
-<p style="font-size:11px">Page generated from <a href="https://github.com/yoannbtn/yoannbtn.github.io">github.com/yoannbtn</a>.</p> -->
 

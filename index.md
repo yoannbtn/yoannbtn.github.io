@@ -4,6 +4,28 @@ Click on the [*project name/image*] to display it.
 
 ---
 
+
+[5]: /page/sailing-races-analysis
+
+### [Sailing Races Analysis][5]
+[<img src="images/ultim_wallpaper.jpg?raw=true"/>][5]
+<div style="text-align:center; font-size:11px;"> &copy; Alexis Courcoux / Route du Rhum 2022 </div>
+
+**Description:** Project dedicated to the analysis of sailing races, focusing on prominent events such as La Transat Jacques Vabres, Route du Rhum, Arkéa Ultim Challenge, Trophée Jules Vernes, etc. 
+
+**Overview:**
+
+Explore Python scripts designed for scraping data from official race websites, trackers, and leaderboards. The goal is to facilitate the retrieval of sailing race data, offering performance analyses in the form of polars or heatmaps. Additionally, the repository provides datasets for further analysis using Python or Power BI.
+
+**Sources of data:**
+  - [Arkéa Ultim Challenge - Brest](https://arkeaultimchallengebrest.com/fr/classement)
+  - [Transat Jacques Vabre Normandie - Le Havre](https://www.transatjacquesvabre.org/classement)
+  - [Open-Meteo API](https://open-meteo.com/)
+
+
+---
+
+
 [4]: /page/imoca-sails
 
 
@@ -84,7 +106,7 @@ It may be that, in the future, I will collaborate with a sports journalist frien
 ---
 
 <div style="text-align: center">
-  <p style="font-size:11px">&copy; 2023 Yoann Betton</p>
+  <p style="font-size:11px">&copy; 2024 Yoann Betton</p>
 </div>
 
 <!-- ---
