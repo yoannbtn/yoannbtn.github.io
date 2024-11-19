@@ -2,6 +2,11 @@
 
 ---
 
+### 2024 - Vendée Globe
+
+  - [Analyse du 2024/11/19](/page/VendeeGlobe2024/2024-11-19)
+
+
 ### 2024 - Arkéa Ultim Challenge Brest
 
   - [J35 - Week 5 - 2024-02-04 to 2024-01-12](/page/sailing-races-analysis)
