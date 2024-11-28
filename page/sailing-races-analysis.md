@@ -4,6 +4,7 @@
 
 ### 2024 - Vendée Globe
 
+  - [Analyse du 2024/11/28](/page/VendeeGlobe2024/2024-11-28)
   - [Analyse du 2024/11/19](/page/VendeeGlobe2024/2024-11-19)
 
 
