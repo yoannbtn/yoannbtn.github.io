@@ -5,7 +5,7 @@
 ### 1. 24 Hours of Le Mans 2025
 
 
-<div style="position: relative; width: 100%; padding-top: 62.25%; /* Ratio 16:9 */">
+<div style="width: 100%; height: 0; padding-bottom: 56.25%; position: relative;">
   <iframe 
     title="AnalysisWithSections"
     src="https://app.powerbi.com/view?r=eyJrIjoiNmYyM2JiNTItMzBmZS00NjY5LTlmZGYtNWI4MmNjYzA4OTEzIiwidCI6IjZmYmZkYTI0LWJjZGUtNGY3MS04OTVlLWIyZTIyZjIwOTQ3MyIsImMiOjh9"
