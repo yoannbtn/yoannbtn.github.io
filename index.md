@@ -8,7 +8,7 @@ Click on the [*project name/image*] to display it.
 [6]: /page/wec-analysis
 
 ### [WEC Data Analysis Tool][6]
-[<img src="images/wec_wallpaper.JPG?raw=true"/>][6]
+[<img src="images/wec_wallpaper.jpg?raw=true"/>][6]
 <div style="text-align:center; font-size:11px; margin-bottom: 2em;"> &copy; Nico Deumille / 24h du Mans 2023 </div>
 
 
