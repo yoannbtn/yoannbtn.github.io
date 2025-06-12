@@ -31,5 +31,5 @@ Find more about other races here :
 ---
 
 <div style="text-align: center">
-  <p style="font-size:11px">&copy; 2024 Yoann Betton</p>
+  <p style="font-size:11px">&copy; 2025 Yoann Betton</p>
 </div>

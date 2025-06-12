@@ -168,7 +168,7 @@ En somme, les choix tactiques opérés par les skippers sur les IMOCA à foils r
 ---
 
 <div style="text-align: center">
-  <p style="font-size:11px">&copy; 2023 Yoann Betton</p>
+  <p style="font-size:11px">&copy; 2025 Yoann Betton</p>
 </div>
 
 

@@ -5,6 +5,26 @@ Click on the [*project name/image*] to display it.
 ---
 
 
+[6]: /page/wec-analysis
+
+### [WEC Data Analysis Tool][6]
+[<img src="images/wec_wallpaper.JPG?raw=true"/>][6]
+<div style="text-align:center; font-size:11px; margin-bottom: 2em;"> &copy; Nico Deumille / 24h du Mans 2023 </div>
+
+
+**Description:** Project dedicated to the analysis of WEC races, focusing on prominent events such as 24 Hours of Le Mans.
+
+**Overview:**
+
+Dive into a data-driven exploration of WEC endurance races, with a spotlight on the iconic 24 Hours of Le Mans. This project leverages APIs to collect real-time and historical race data, processes it using Power Query, and delivers dynamic visualizations through Power BI. The goal is to uncover performance trends, stint strategies, and team comparisons across race classes, offering motorsport enthusiasts and analysts a comprehensive view of endurance racing dynamics.
+
+**Sources of data:**
+  - [FIA WEC - Timing results](https://fiawec.alkamelsystems.com/)
+
+
+---
+
+
 [5]: /page/sailing-races-analysis
 
 ### [Sailing Races Analysis][5]
