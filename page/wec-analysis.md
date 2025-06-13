@@ -5,7 +5,7 @@
 ### 1. 24 Hours of Le Mans 2025
 
 
-<iframe title="AnalysisWithSections" width="100%" height="615" src="https://app.powerbi.com/view?r=eyJrIjoiYTBlNTE3NTYtNmQwMC00ZTk1LTkyOWItYjNjMDM5ODJhYjRmIiwidCI6IjZmYmZkYTI0LWJjZGUtNGY3MS04OTVlLWIyZTIyZjIwOTQ3MyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="AnalysisWithSections" width="100%" height="615" src="https://app.powerbi.com/view?r=eyJrIjoiMDRkMmU0ODMtYmY3ZS00OWJmLWIyZDktMTI0OGNmNDdhYzRkIiwidCI6IjZmYmZkYTI0LWJjZGUtNGY3MS04OTVlLWIyZTIyZjIwOTQ3MyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ---
