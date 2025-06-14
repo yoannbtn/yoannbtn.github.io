@@ -2,6 +2,8 @@
 
 ---
 
+> 💡 **For the best experience, open the dashboard on a desktop and click the bottom-right icon to enter full-screen mode.**
+
 ### 1. 24 Hours of Le Mans 2025
 
 
