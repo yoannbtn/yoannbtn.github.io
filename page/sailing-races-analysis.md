@@ -2,6 +2,10 @@
 
 ---
 
+### 2025 - Mini Fastnet
+
+  - [Mini Fastnet Power BI Dashboard](/page/minifastnet2025)
+
 ### 2024 - Vendée Globe
 
   - [Analyse du 2024/11/28](/page/VendeeGlobe2024/2024-11-28)
