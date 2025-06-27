@@ -7,7 +7,7 @@
 ### 1. SECONDE CHANCE - EN 1 CLIC Sailing vessel
 
 
-<iframe title="MiniFastnet2025" width="100%" height="615" src="https://app.powerbi.com/view?r=eyJrIjoiNWYxZjhkMGMtMWUwOC00MmI3LWFkODktZWQyYTk2ZmNmOWQzIiwidCI6IjZmYmZkYTI0LWJjZGUtNGY3MS04OTVlLWIyZTIyZjIwOTQ3MyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="MiniFastnet2025" width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiNWYxZjhkMGMtMWUwOC00MmI3LWFkODktZWQyYTk2ZmNmOWQzIiwidCI6IjZmYmZkYTI0LWJjZGUtNGY3MS04OTVlLWIyZTIyZjIwOTQ3MyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ---
