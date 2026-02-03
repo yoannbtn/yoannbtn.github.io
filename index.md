@@ -10,7 +10,7 @@ Click on the [*project name/image*] to display it.
 [<img src="images/fabric_poc_wallpaper.png?raw=true"/>][7]
 <div style="text-align:center; font-size:11px; margin-bottom: 2em;"> &copy; Yoann Betton / Fabric POC 2026 </div>
 
-**Description:** End-to-end sports data analytics platform (Trail/Commuting) automated on Microsoft Fabric using Medallion Architecture and Direct Lake technology.
+**Description:** End-to-end sports data analytics platform automated on Microsoft Fabric using Medallion Architecture and Direct Lake technology.
 
 **Overview:**
 
