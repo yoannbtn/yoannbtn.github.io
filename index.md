@@ -4,6 +4,34 @@ Click on the [*project name/image*] to display it.
 
 ---
 
+[7]: /page/fabric-poc-strava-analytics
+
+### [Strava Data Analytics Pipeline (Microsoft Fabric)][7]
+[<img src="images/fabric_poc_wallpaper.png?raw=true"/>][7]
+<div style="text-align:center; font-size:11px; margin-bottom: 2em;"> &copy; Yoann Betton / Fabric POC 2026 </div>
+
+**Description:** End-to-end sports data analytics platform (Trail/Commuting) automated on Microsoft Fabric using Medallion Architecture and Direct Lake technology.
+
+**Overview:**
+
+This project implements a modern data infrastructure to monitor athletic preparation and gear wear. The pipeline automates data extraction from the Strava API into a Fabric Lakehouse. The architecture follows industry standards:
+- **Bronze:** Raw ingestion of activities and gear snapshots (JSON files).
+- **Silver:** Cleaning, explicit typing, and historical tracking (SCD) via PySpark.
+- **Gold:** Star Schema optimized for high-performance reporting.
+
+The project leverages the latest Power BI innovations with **Direct Lake** mode, enabling real-time querying of large Delta tables without import latency, all optimized for a Fabric F2 capacity.
+
+**Tech Stack:**
+- **Cloud & Orchestration:** Microsoft Fabric (Data Pipelines).
+- **Processing:** PySpark (Spark 3.4 Notebooks).
+- **Storage:** OneLake / Delta Lake (V3).
+- **Visualization:** Power BI (Semantic Model & Direct Lake).
+
+**Sources of data:**
+- [Strava API](https://developers.strava.com/)
+
+---
+
 
 [6]: /page/wec-analysis
 
@@ -127,7 +155,7 @@ It may be that, in the future, I will collaborate with a sports journalist frien
 ---
 
 <div style="text-align: center">
-  <p style="font-size:11px">&copy; 2024 Yoann Betton</p>
+  <p style="font-size:11px">&copy; 2026 Yoann Betton</p>
 </div>
 
 <!-- ---
