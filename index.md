@@ -4,7 +4,7 @@ Click on the [*project name/image*] to display it.
 
 ---
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7430200560940691456" height="839" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7430200560940691456" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
 ---
 
