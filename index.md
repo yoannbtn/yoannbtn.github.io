@@ -4,7 +4,12 @@ Click on the [*project name/image*] to display it.
 
 ---
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7430200560940691456" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+<iframe 
+  src="https://www.linkedin.com/embed/feed/update/urn:li:share:7430200560940691456" 
+  style="width: 100%; max-width: 1000px; height: 839px; border: none;" 
+  allowfullscreen="" 
+  title="Post intégré">
+</iframe>
 
 ---
 
