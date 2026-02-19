@@ -4,13 +4,18 @@ Click on the [*project name/image*] to display it.
 
 ---
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7430200560940691456" height="839" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+
+---
+
+
 [7]: /page/fabric-poc-strava-analytics
 
 ### [Strava Data Analytics Pipeline (Microsoft Fabric)][7]
 [<img src="images/fabric_poc_wallpaper.png?raw=true"/>][7]
 <div style="text-align:center; font-size:11px; margin-bottom: 2em;"> &copy; Yoann Betton / Fabric POC 2026 </div>
 
-**Description:** End-to-end sports data analytics platform (Trail/Commuting) automated on Microsoft Fabric using Medallion Architecture and Direct Lake technology.
+**Description:** End-to-end sports data analytics platform automated on Microsoft Fabric using Medallion Architecture and Direct Lake technology.
 
 **Overview:**
 
