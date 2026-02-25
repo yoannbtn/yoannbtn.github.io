@@ -20,26 +20,30 @@ Click on the [*project name/image*] to display it.
 [<img src="images/fabric_poc_wallpaper.png?raw=true"/>][7]
 <div style="text-align:center; font-size:11px; margin-bottom: 2em;"> &copy; Yoann Betton / Fabric POC 2026 </div>
 
-**Description:** End-to-end sports data analytics platform automated on Microsoft Fabric using Medallion Architecture and Direct Lake technology.
+**Description:** End-to-end sports data analytics platform on Microsoft Fabric, featuring FinOps automation and AI-driven conversational BI.
 
 **Overview:**
+This project implements a high-performance data infrastructure to monitor athletic preparation and gear wear. The pipeline automates the journey from the Strava API to a refined Gold layer, specifically optimized for a **Fabric F2 capacity** through advanced cost-management strategies.
 
-This project implements a modern data infrastructure to monitor athletic preparation and gear wear. The pipeline automates data extraction from the Strava API into a Fabric Lakehouse. The architecture follows industry standards:
-- **Bronze:** Raw ingestion of activities and gear snapshots (JSON files).
-- **Silver:** Cleaning, explicit typing, and historical tracking (SCD) via PySpark.
-- **Gold:** Star Schema optimized for high-performance reporting.
-
-The project leverages the latest Power BI innovations with **Direct Lake** mode, enabling real-time querying of large Delta tables without import latency, all optimized for a Fabric F2 capacity.
+- **Medallion Architecture:**
+    - **Bronze:** Automated API ingestion (REST/OAuth2) into OneLake (JSON).
+    - **Silver:** Data cleaning, explicit typing, and SCD Type 2 tracking for gear wear via PySpark (Spark 3.4).
+    - **Gold:** Decision-ready Star Schema.
+- **FinOps & Automation:** Implementation of **Azure PowerShell Runbooks** to orchestrate the Capacity lifecycle (Start/Pause), aligning billing with actual processing time.
+- **High Availability:** Strategic use of **Import Mode** for the semantic model, ensuring report availability for users even when the Fabric capacity is suspended to save costs.
+- **Conversational BI:** Integration of a **Data Agent** for natural language data exploration, leveraging custom system instructions for sports-specific logic.
 
 **Tech Stack:**
-- **Cloud & Orchestration:** Microsoft Fabric (Data Pipelines).
+- **Cloud & Orchestration:** Microsoft Fabric (Data Pipelines) & Azure Automation (PowerShell Runbooks).
 - **Processing:** PySpark (Spark 3.4 Notebooks).
-- **Storage:** OneLake / Delta Lake (V3).
-- **Visualization:** Power BI (Semantic Model & Direct Lake).
+- **Storage:** OneLake / Delta Lake.
+- **BI & AI:** Power BI (Import Mode) & Fabric Data Agent (Copilot).
+- **FinOps Monitoring:** Fabric Capacity Metrics (Analysis of Bursting, Smoothing & Throttling).
 
 **Sources of data:**
 - [Strava API](https://developers.strava.com/)
 
+[7]: /page/fabric-poc-strava-analytics
 ---
 
 
