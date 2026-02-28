@@ -40,9 +40,8 @@ Le projet utilise une architecture **Medallion** pour garantir la qualité, la t
 ### ⚖️ Expertise FinOps & Automatisation Azure
 Pour optimiser les coûts sur une capacité **F2**, une stratégie d'automatisation avancée a été mise en place :
 
-* **Azure PowerShell Runbooks** : Orchestration de l'allumage et de l'extinction automatique de la capacité Fabric (Start/Pause) corrélée au cycle de traitement des données.
+* **Azure PowerShell Runbooks** : Orchestration de l'allumage et de l'extinction automatique de la capacité Fabric (Start/Pause) corrélée au cycle de traitement des données et aux fenêtres de consultation utilisateur pour optimiser le ROI.
 * **Analyse de Capacité** : Monitoring via *Fabric Capacity Metrics* pour gérer le **Bursting** et le **Smoothing** (lissage de la consommation interactive vs background).
-* **Haute Disponibilité (Mode Import)** : Contrairement au Direct Lake, le modèle sémantique est configuré en **Mode Import**. Cela garantit que les rapports Power BI restent **accessibles 24/7**, même lorsque la capacité Fabric est éteinte pour économiser des coûts.
 
 ---
 
@@ -100,7 +99,7 @@ df_with_categories = df_silver.withColumn(
 1. **Azure Automation** : Configurer le Runbook PowerShell et l'identité managée pour piloter la ressource Fabric.
 2. **API Strava** : Configurer les credentials sur le portail développeur (Client ID, Secret, Refresh Token).
 3. **Fabric Lakehouse** : Importer les notebooks et configurer le Starter Pool en "Small".
-4. **Modélisation** : Créer le modèle sémantique en **Mode Import** et planifier le rafraîchissement automatique via le pipeline de données.
+4. **Modélisation** : Créer le modèle sémantique en **Direct Lake** pour bénéficier de la performance native sans latence de rafraîchissement.
 5. **Data Agent** : Activer l'agent sur le modèle sémantique et configurer les instructions de navigation (jointures et synonymes).
 
 ---
