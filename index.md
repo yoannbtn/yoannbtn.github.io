@@ -30,7 +30,6 @@ This project implements a high-performance data infrastructure to monitor athlet
     - **Silver:** Data cleaning, explicit typing, and SCD Type 2 tracking for gear wear via PySpark (Spark 3.4).
     - **Gold:** Decision-ready Star Schema.
 - **FinOps & Automation:** Implementation of **Azure PowerShell Runbooks** to orchestrate the Capacity lifecycle (Start/Pause), aligning billing with actual processing time.
-- **High Availability:** Strategic use of **Import Mode** for the semantic model, ensuring report availability for users even when the Fabric capacity is suspended to save costs.
 - **Conversational BI:** Integration of a **Data Agent** for natural language data exploration, leveraging custom system instructions for sports-specific logic.
 
 **Tech Stack:**
