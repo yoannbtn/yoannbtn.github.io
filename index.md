@@ -36,7 +36,7 @@ This project implements a high-performance data infrastructure to monitor athlet
 - **Cloud & Orchestration:** Microsoft Fabric (Data Pipelines) & Azure Automation (PowerShell Runbooks).
 - **Processing:** PySpark (Spark 3.4 Notebooks).
 - **Storage:** OneLake / Delta Lake.
-- **BI & AI:** Power BI (Import Mode) & Fabric Data Agent (Copilot).
+- **BI & AI:** Power BI (Direct Lake) & Fabric Data Agent (Copilot).
 - **FinOps Monitoring:** Fabric Capacity Metrics (Analysis of Bursting, Smoothing & Throttling).
 
 **Sources of data:**
