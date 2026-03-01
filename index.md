@@ -42,7 +42,7 @@ This project implements a high-performance data infrastructure to monitor athlet
 **Sources of data:**
 - [Strava API](https://developers.strava.com/)
 
-[7]: /page/fabric-poc-strava-analytics
+
 ---
 
 
